@@ -1,0 +1,14 @@
+# Python Dependencies
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Database
+psycopg2-binary
+
+# Scheduling
+schedule
+
+# API
+flask
